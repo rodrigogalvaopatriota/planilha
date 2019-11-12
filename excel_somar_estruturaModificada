@@ -1,0 +1,19 @@
+	       nota	  nota	nota
+teste1	3        2	
+teste2	7            	3	
+teste3	3
+			
+			
+			
+			
+			
+			
+			
+			
+tipo	     nota		
+teste1	5		
+teste2	10		
+teste3	3		
+
+SE(PROCV(M718:M720;M706:M708;1;FALSO)=M718;SOMA(N706:P706);"")
+
